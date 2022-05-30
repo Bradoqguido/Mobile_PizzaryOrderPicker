@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizza Facil</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sabor">ActivitySabor</string>
+    <string name="title_activity_pedido">PedidoActivity</string>
+    <string name="title_activity_listagem_de_itens">ListagemDeItensActivity</string>
+    <string name="title_activity_montagem_pizza">MontagemPizzaActivity</string>
+</resources>

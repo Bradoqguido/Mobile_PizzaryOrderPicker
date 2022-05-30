@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mesas">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+
+    </string-array>
+    <string-array name="tamanho_pizza">
+        <item>PEQUENA - 25CM</item>
+        <item>MEDIA - 30CM</item>
+        <item>GRANDE - 35CM</item>
+        <item>GIGANTE - 40CM</item>
+        <item>EXTRA GIGANTE - 45CM</item>
+    </string-array>
+
+    <string-array name="borda">
+        <item>Catupiry</item>
+        <item>Cheddar</item>
+        <item>Sem Borda</item>
+    </string-array>
+
+    <string-array name="sabor_salgado">
+        <item>4 QUEIJOS - R$ 40,00</item>
+        <item>ALEMÃ - R$ 40,00</item>
+        <item>ALHO E ÓLEO - R$ 40,00</item>
+        <item>ALITI - R$ 40,00</item>
+        <item>ATUM - R$ 40,00</item>
+        <item>BACON - R$ 40,00</item>
+        <item>BAHIANA - R$ 40,00</item>
+        <item>BAURU - R$ 40,00</item>
+        <item>BOLONHESA - R$ 40,00</item>
+        <item>CALABRESA - R$ 40,00</item>
+        <item>CALIPSO - R$ 40,00</item>
+        <item>CASCAVEL - R$ 40,00</item>
+        <item>CATUPIRY - R$ 40,00</item>
+        <item>CHAMPIGNON - R$ 40,00</item>
+        <item>ELE E ELA - R$ 40,00</item>
+        <item>ESCAROLA - R$ 40,00</item>
+        <item>ESPANHOLA - R$ 40,00</item>
+        <item>FRANGO - R$ 40,00</item>
+        <item>FRANGO CAIPIRA</item>
+        <item>KANI KAMA - R$ 40,00</item>
+        <item>LOMBINHO - R$ 40,00</item>
+        <item>MARGUERITA - R$ 40,00</item>
+        <item>MILHO VERDE - R$ 40,00</item>
+        <item>MINEIRA - R$ 40,00</item>
+        <item>MODA DA CASA - R$ 40,00</item>
+        <item>NAPOLITANA - R$ 40,00</item>
+        <item>PALMITO - R$ 40,00</item>
+        <item>PEPPERONE - R$ 40,00</item>
+        <item>PERUANA - R$ 40,00</item>
+        <item>PORTUGUESA - R$ 40,00</item>
+        <item>PURÊ DE BATATA - R$ 40,00</item>
+        <item>SICILIANA - R$ 40,00</item>
+        <item>STROGONOFF - R$ 40,00</item>
+        <item>TOMATE SECO - R$ 40,00</item>
+    </string-array>
+
+    <string-array name="sabor_doce">
+        <item>BANANA - R$ 10,50</item>
+        <item>BRIGADEIRO - R$ 10,50</item>
+        <item>CABOCLA - R$ 10,50</item>
+        <item>CALIFÓRNIA - R$ 10,50</item>
+        <item>CHOCOLATE BRANCO - R$ 10,50</item>
+        <item>CHOCOLATE PRETO - R$ 10,50</item>
+        <item>CÔCO - R$ 10,50</item>
+        <item>ROMEU E JULIETA - R$ 10,50</item>
+        <item>SEDUÇÃO - R$ 10,50</item>
+        <item>SENSAÇÃO - R$ 10,50</item>
+    </string-array>
+
+    <string-array name="porcoes">
+        <item>NADA</item>
+        <item>Batata Frita 1kg - R$ 22,00</item>
+        <item>Frango a Passarinho 1kg - R$ 23,00</item>
+        <item>Peixe Frito 500gr - R$ 27,00</item>
+        <item>Peixe Frito 1kg - R$ 45,00</item>
+    </string-array>
+
+    <string-array name="bebidas">
+        <item>NADA</item>
+        <item>Refrigerante 2 Litros - R$ 7,00</item>
+        <item>Refrigerante Lata - R$ 3,50</item>
+        <item>Cerveja Lata 350ml - R$ 3,50</item>
+    </string-array>
+
+</resources>
